@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: large;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.list {
+    text-align: center;
+    list-style-position: inside;
+
+}
+body { background-color: blueviolet;}
+
